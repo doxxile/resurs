@@ -1,0 +1,967 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/player.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "豈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/vip.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "更"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/pro.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "車"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/mvp.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "賈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/elite.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "滑"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/helper.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "串"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/nitro.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "契"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/youtuber.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "句"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/tiktok.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "龜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/twitch.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "龜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/moderator.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "∯"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/staff.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "金"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/developer.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "喇"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/prefix/admin.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "⻆"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/cosmetics.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "奈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/donate.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "懶"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/fisherman.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "癩"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/kits.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "羅"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/coins/shop.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "蘿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/warps.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "螺"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/battle_pass.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "裸"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/events.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "邏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/info.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "樂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/quest.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "洛"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/skyblock.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "烙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/survival.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "珞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/teleport.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "落"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/spring.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "Ѧ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/fall.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ʩ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/summer.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ʫ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/coins/dusha.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "թ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/coins/kristal.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ֆ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/kl.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ທ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/shaht.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "և"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/kill.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "Ԃ"
+            ]
+        },
+                {
+                    "type": "bitmap",
+                    "file": "betterprefix/menu/abilityhaste.png",
+                    "ascent": 9,
+                    "height": 10,
+                    "chars": [
+                        "Ք"
+                    ]
+                },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/dead.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "Ԅ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/nick.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ԅ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/rank.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "Ԇ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/clan.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ԇ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/comm1.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "Ԉ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/comm2.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ԉ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/comm3.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "Ԋ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/online.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ԋ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/catalogue.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "Ԍ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/next.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ਔ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/sokr.png",
+            "ascent": 11,
+            "height": 15,
+            "chars": [
+                "Ҿ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/egg.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ѿ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/prefix.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ਗ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/1.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ʨ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/8.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ਕ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/6.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ሒ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/projectile_damage.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ਖ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/defense.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ਘ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/sources.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ਙ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/previous.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ਚ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/npc/weaponsmith.png",
+            "ascent": 40,
+            "height": 60,
+            "chars": [
+                "酪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/rangl.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "ॴ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/magl.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "ଅ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/kristl.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "ਈ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/main_menu.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "Զ"
+            ]
+        },
+                {
+                    "type": "bitmap",
+                    "file": "ui/kits.png",
+                    "ascent": 30,
+                    "height": 256,
+                    "chars": [
+                        "৯"
+                    ]
+                },
+        {
+            "type": "bitmap",
+            "file": "ui/rodrigo.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "আ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/gaston.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "ક"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/rtp_banner.png",
+            "ascent": 30,
+            "height": 80,
+            "chars": [
+                "త"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/shon.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "ँ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/rodzer.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "Ԭ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/shop_main.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": [
+                "ఱ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/kuz2.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "ಅ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/kuz1.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": [
+                "ቺ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/donate_shop.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": [
+                "ਐ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/info_menu.png",
+            "ascent": 84,
+            "height": 256,
+            "chars": [
+                "ȍ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/rtp_menu.png",
+            "ascent": 84,
+            "height": 256,
+            "chars": [
+                "ฐ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/xp.png",
+            "ascent": 84,
+            "height": 256,
+            "chars": [
+                "អ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/eff.png",
+            "ascent": 84,
+            "height": 256,
+            "chars": [
+                "ं"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/prava.png",
+            "ascent": 84,
+            "height": 256,
+            "chars": [
+                "҈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/navigator.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": [
+                "ڴ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/kanc.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": [
+                "இ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/obmen.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": [
+                "ԭ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/profile_menu.png",
+            "ascent": 47,
+            "height": 256,
+            "chars": [
+                "ܓ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/logo.png",
+            "ascent": 20,
+            "height": 36,
+            "chars": [
+                "ꐙ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/logo2.png",
+            "ascent": 20,
+            "height": 36,
+            "chars": [
+                "Ȏ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/logo3.png",
+            "ascent": 15,
+            "height": 18,
+            "chars": [
+                "థ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/recipe_showcase.png",
+            "ascent": 40,
+            "height": 164,
+            "chars": [
+                "ꐛ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/recipe_stonecutter.png",
+            "ascent": 40,
+            "height": 164,
+            "chars": [
+                "ꐞ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/pixel.png",
+            "ascent": -2000,
+            "height": -3,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/quest.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "ʧ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/pero.png",
+            "ascent": 35,
+            "height": 50,
+            "chars": [
+                "Ո"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/level.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "Շ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/comm.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "Յ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/trade.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "Մ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/coming_soon.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "Ճ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/banner.png",
+            "ascent": -7,
+            "height": 60,
+            "chars": [
+                "స"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/library.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ష"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/player.png",
+            "ascent": 10,
+            "height": 40,
+            "chars": [
+                "శ"
+            ]
+        },
+                {
+                    "type": "bitmap",
+                    "file": "betterprefix/menu/vip.png",
+                    "ascent": 10,
+                    "height": 40,
+                    "chars": [
+                        "৮"
+                    ]
+                },
+                                {
+                                    "type": "bitmap",
+                                    "file": "betterprefix/menu/pro.png",
+                                    "ascent": 10,
+                                    "height": 40,
+                                    "chars": [
+                                        "৭"
+                                    ]
+                                },
+                                                                {
+                                                                    "type": "bitmap",
+                                                                    "file": "betterprefix/menu/mvp.png",
+                                                                    "ascent": 10,
+                                                                    "height": 40,
+                                                                    "chars": [
+                                                                        "৬"
+                                                                    ]
+                                                                },
+                                                                                {
+                                                                                    "type": "bitmap",
+                                                                                    "file": "betterprefix/menu/elite.png",
+                                                                                    "ascent": 10,
+                                                                                    "height": 40,
+                                                                                    "chars": [
+                                                                                        "৫"
+                                                                                    ]
+                                                                                },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/menu/swit.png",
+            "ascent": 10,
+            "height": 60,
+            "chars": [
+                "Ն"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/clan.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ԇ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/scoreboard/money.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "ਉ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/blocks/normal.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "ښ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/blocks/nether.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "ڛ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/blocks/end.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "ڜ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/blocks/donate.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "ڝ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "betterprefix/interfase/main_menu.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "Զ"
+            ]
+        }
+    ]
+}
